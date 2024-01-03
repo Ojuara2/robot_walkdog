@@ -1,0 +1,49 @@
+{"level":30,"time":"2023-12-31T14:09:13.465Z","pid":15240,"hostname":"paaraujo","msg":"Listening on 58312"}
+{"level":30,"time":"2023-12-31T14:09:13.617Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:13.617Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:13.621Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:13.621Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:13.626Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-12-31T14:09:14.072Z","pid":15240,"hostname":"paaraujo","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2023-12-31T14:09:14.073Z","pid":15240,"hostname":"paaraujo","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-12-31T14:09:14.073Z","pid":15240,"hostname":"paaraujo","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2023-12-31T14:09:14.085Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-12-31T14:09:14.085Z","pid":15240,"hostname":"paaraujo","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-12-31T14:09:14.111Z","pid":15240,"hostname":"paaraujo","msg":"Changed active context"}
+{"level":30,"time":"2023-12-31T14:09:14.313Z","pid":15240,"hostname":"paaraujo","msg":"Video path: undefined"}
+{"level":30,"time":"2023-12-31T14:09:14.314Z","pid":15240,"hostname":"paaraujo","msg":"Changed active page"}
+{"level":30,"time":"2023-12-31T14:09:14.886Z","pid":15240,"hostname":"paaraujo","msg":"End of node method newPage"}
+{"level":30,"time":"2023-12-31T14:09:14.892Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-12-31T14:09:14.893Z","pid":15240,"hostname":"paaraujo","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-12-31T14:09:14.931Z","pid":15240,"hostname":"paaraujo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-12-31T14:09:14.937Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getText"}
+{"level":30,"time":"2023-12-31T14:09:14.937Z","pid":15240,"hostname":"paaraujo","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-12-31T14:09:14.965Z","pid":15240,"hostname":"paaraujo","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-12-31T14:09:14.965Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getText"}
+{"level":30,"time":"2023-12-31T14:09:24.989Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:24.991Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:24.993Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:24.995Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:24.997Z","pid":15240,"hostname":"paaraujo","msg":"Changed active context"}
+{"level":30,"time":"2023-12-31T14:09:24.997Z","pid":15240,"hostname":"paaraujo","msg":"Changing current active page: page=564022e9-7cbf-4d43-90e3-40752f72098c"}
+{"level":30,"time":"2023-12-31T14:09:24.997Z","pid":15240,"hostname":"paaraujo","msg":"Changed active page"}
+{"level":30,"time":"2023-12-31T14:09:25.002Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.003Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.009Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-12-31T14:09:25.010Z","pid":15240,"hostname":"paaraujo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-12-31T14:09:25.013Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-12-31T14:09:25.014Z","pid":15240,"hostname":"paaraujo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-12-31T14:09:25.017Z","pid":15240,"hostname":"paaraujo","msg":"Changing current active page: page=564022e9-7cbf-4d43-90e3-40752f72098c"}
+{"level":30,"time":"2023-12-31T14:09:25.017Z","pid":15240,"hostname":"paaraujo","msg":"Changed active page"}
+{"level":30,"time":"2023-12-31T14:09:25.020Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.022Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.025Z","pid":15240,"hostname":"paaraujo","msg":"Changed active context"}
+{"level":30,"time":"2023-12-31T14:09:25.025Z","pid":15240,"hostname":"paaraujo","msg":"Changing current active page: page=564022e9-7cbf-4d43-90e3-40752f72098c"}
+{"level":30,"time":"2023-12-31T14:09:25.025Z","pid":15240,"hostname":"paaraujo","msg":"Changed active page"}
+{"level":30,"time":"2023-12-31T14:09:25.027Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-12-31T14:09:25.037Z","pid":15240,"hostname":"paaraujo","msg":"Removed page=dca1e17a-33af-4e7b-b5ed-136eb1f31d08 from context=e03d8ad5-a212-4212-9bb0-b9c74cc31d13 page stack"}
+{"level":30,"time":"2023-12-31T14:09:25.053Z","pid":15240,"hostname":"paaraujo","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-12-31T14:09:25.069Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.070Z","pid":15240,"hostname":"paaraujo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-31T14:09:25.133Z","pid":15240,"hostname":"paaraujo","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-12-31T14:09:25.322Z","pid":15240,"hostname":"paaraujo","msg":"End of node method closeAllBrowsers"}
